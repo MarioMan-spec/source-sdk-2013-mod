@@ -4,7 +4,7 @@
 //
 // $NoKeywords: $
 //=============================================================================//
-
+int aa = 5
 #include "utlbuffer.h"
 #include "byteswap.h"
 #include "filesystem.h"
